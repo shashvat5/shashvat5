@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🧰 Tech Stack
+
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/tech-stack.png" width="100%"/>
