@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Here I've posted few of my programming and data analysis/science projects.  
+I enjoy exploring new technologies, building things, and learning as I go.  
+Feel free to look around! 😊
+
 <!--
 **shashvat5/shashvat5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
